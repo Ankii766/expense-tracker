@@ -47,23 +47,6 @@ A **Full Stack Expense Tracker** with full functionality like adding trasactions
 
 [MERN-Expense-Tracker](https://bright-cuff-tick.cyclic.app/)
 
-### 👨‍💻 Execution:
-
-- Clone this repo using git clone in your terminal
-
-```
-git clone https://github.com/sakshgupta/MERN-Expense-Tracker.git
-```
-
-**OR**
-<br></br>
-Zip Download the Repository and Extract it's contents.
-
-- CD over to client
-- Run `npm i` then `npm start`
-- CD over to server
-- Run `npm i`
-- Visit [http://localhost:3000/](http://localhost:3000/)
 
 ### ➕ Expense Tracker
 
